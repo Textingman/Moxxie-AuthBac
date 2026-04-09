@@ -46,7 +46,7 @@ export default function SignupPage() {
             <div className="flex items-center">
               <Link href="/" className="flex-shrink-0">
                 <Image 
-                  src="/new-logo.png" 
+                  src="/Logoforreal.png" 
                   alt="Auth Bac" 
                   width={300} 
                   height={100}

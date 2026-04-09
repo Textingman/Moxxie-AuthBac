@@ -70,7 +70,7 @@ function VerifyPageContent() {
         {/* Logo/Brand */}
         <div className="flex justify-center mb-8">
           <Image 
-            src="/new-logo.png" 
+            src="/Logoforreal.png" 
             alt="Auth Bac" 
             width={320} 
             height={107}
